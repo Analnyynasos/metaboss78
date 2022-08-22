@@ -1,0 +1,76 @@
+{
+  "name": "ABC #3773",
+  "symbol": "ABC",
+  "description": "ABC - Abracadabra\n\nA collection of 10K immutable NFTs, 0% royalties.\n\nMade to remind you of how fun things were when we were kids, before growing up - let’s never stop having fun!",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/8AaL2I77c4yRARcym0VHnJ3T57mlAB5rSQKZv8mvjbQ",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "special",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "tail",
+      "value": "greentail"
+    },
+    {
+      "trait_type": "body",
+      "value": "greenskin"
+    },
+    {
+      "trait_type": "leg",
+      "value": "robotskin"
+    },
+    {
+      "trait_type": "rarm",
+      "value": "brownskin"
+    },
+    {
+      "trait_type": "larm",
+      "value": "greenskin"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "stickouttongue"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eyelasheye"
+    },
+    {
+      "trait_type": "acc1",
+      "value": "gun"
+    },
+    {
+      "trait_type": "acc2",
+      "value": "bird"
+    },
+    {
+      "trait_type": "acc3",
+      "value": "donut"
+    },
+    {
+      "trait_type": "base",
+      "value": "monster"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
